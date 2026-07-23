@@ -15,30 +15,6 @@ If you're adding wallpapers, please follow a few simple rules:
 
 - Add them to an existing folder if they match its style.
 - If they don't fit anywhere, create a new folder with a meaningful name that represents the aesthetic rather than something generic.
-
-Good folder names:
-
-```
-Dark Academia/
-Cyberpunk/
-Monochrome/
-Mountains/
-Space/
-Pixel Art/
-Studio Ghibli/
-Rainy Nights/
-```
-
-Not so good:
-
-```
-Wallpapers/
-New/
-Misc/
-Images/
-Random/
-```
-
 Try to keep each folder focused around a single style or theme.
 
 ---
